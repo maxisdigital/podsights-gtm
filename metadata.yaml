@@ -15,7 +15,7 @@
 homepage: "https://www.maxisdigital.com.au"
 documentation: "https://ads.spotify.com/en-US/ad-analytics/"
 versions:
-  - sha: c5c5bd4fb866f85258d0bfe6ed97a69789cbe4e7
-    changeNotes: Update template filenames
+  # Latest version
   - sha: be4c44b0a6803837b40eba1b0a955a91996985f7
-    changeNotes: Initial Version
+    changeNotes: Update template filenames
+  # Older versions
